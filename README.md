@@ -1,3 +1,1 @@
-# CryptoHack
-# CryptoHack
-# CryptoHack
+# CryptoHack Solutions
